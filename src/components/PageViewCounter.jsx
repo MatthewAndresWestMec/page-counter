@@ -11,7 +11,7 @@ useEffect(() => {
 }, [])
 
   return (
-    <div className='bottom-right'>This page has been visited {visits}</div>
+    <div className='bottom-right'>This page has been visited {visits} times!</div>
   )
 }
 
