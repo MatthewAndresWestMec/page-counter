@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.bottom-right{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 4vh;
+  border: #1a1c1a 2px solid;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
